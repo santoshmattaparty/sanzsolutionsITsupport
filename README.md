@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sanzsolutions Tomcat 9 Website
 
 Sample Java website for Sanzsolutions, built as a WAR file for Tomcat 9 and Docker deployment.
@@ -52,3 +53,7 @@ Open `http://localhost:8080`.
 ## Deploy WAR To Existing Tomcat 9
 
 Copy `target/sanzsolutions.war` to the Tomcat 9 `webapps` folder. Rename it to `ROOT.war` if you want the website at the server root.
+=======
+# sanzsolutionsITsupport
+IT support Sanzsolution site
+>>>>>>> 1d6a8ca939af7dd16d26b376ce6babff6b7cf837
